@@ -1,0 +1,14 @@
+C:\Users\Cab\source\repos\WCS_1-list\WCS_1-list\bin\Debug\netcoreapp3.1\WCS_1-list.exe
+C:\Users\Cab\source\repos\WCS_1-list\WCS_1-list\bin\Debug\netcoreapp3.1\WCS_1-list.deps.json
+C:\Users\Cab\source\repos\WCS_1-list\WCS_1-list\bin\Debug\netcoreapp3.1\WCS_1-list.runtimeconfig.json
+C:\Users\Cab\source\repos\WCS_1-list\WCS_1-list\bin\Debug\netcoreapp3.1\WCS_1-list.runtimeconfig.dev.json
+C:\Users\Cab\source\repos\WCS_1-list\WCS_1-list\bin\Debug\netcoreapp3.1\WCS_1-list.dll
+C:\Users\Cab\source\repos\WCS_1-list\WCS_1-list\bin\Debug\netcoreapp3.1\WCS_1-list.pdb
+C:\Users\Cab\source\repos\WCS_1-list\WCS_1-list\obj\Debug\netcoreapp3.1\WCS_1-list.csproj.AssemblyReference.cache
+C:\Users\Cab\source\repos\WCS_1-list\WCS_1-list\obj\Debug\netcoreapp3.1\WCS_1-list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cab\source\repos\WCS_1-list\WCS_1-list\obj\Debug\netcoreapp3.1\WCS_1-list.AssemblyInfoInputs.cache
+C:\Users\Cab\source\repos\WCS_1-list\WCS_1-list\obj\Debug\netcoreapp3.1\WCS_1-list.AssemblyInfo.cs
+C:\Users\Cab\source\repos\WCS_1-list\WCS_1-list\obj\Debug\netcoreapp3.1\WCS_1-list.csproj.CoreCompileInputs.cache
+C:\Users\Cab\source\repos\WCS_1-list\WCS_1-list\obj\Debug\netcoreapp3.1\WCS_1-list.dll
+C:\Users\Cab\source\repos\WCS_1-list\WCS_1-list\obj\Debug\netcoreapp3.1\WCS_1-list.pdb
+C:\Users\Cab\source\repos\WCS_1-list\WCS_1-list\obj\Debug\netcoreapp3.1\WCS_1-list.genruntimeconfig.cache
